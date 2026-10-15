@@ -1,0 +1,14 @@
+{
+    "name": "parksmart/smart-vehicle-parking",
+    "description": "Smart Vehicle Parking System built with PHP and MongoDB",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1",
+        "ext-mongodb": "*",
+        "mongodb/mongodb": "^1.17 || ^2.0"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
